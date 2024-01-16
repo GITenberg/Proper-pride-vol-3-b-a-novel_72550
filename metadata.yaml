@@ -1,5 +1,8 @@
 _repo: Proper-pride-vol-3-b-a-novel_72550
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72550-h/images/cover.jpg
 creator:
   author:
     agent_name: Croker, B. M. (Bithia Mary)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7895
     wikipedia: https://en.wikipedia.org/wiki/Bithia_Mary_Croker
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72550#Proper-pride-vol-3-b-a-novel
 gutenberg_issued: '2023-12-30'
 gutenberg_type: Text
 identifiers:
